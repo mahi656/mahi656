@@ -39,7 +39,7 @@
 ```javascript
 class DeveloperProfile {
     constructor() {
-        this.name = "Hariksh Suryawanshi";
+        this.name = "Mahi Sawner";
         this.title = "Full Stack Developer & UI/UX Enthusiast";
         this.location = "India 🇮🇳";
         this.currentFocus = ["React Mastery", "Node.js Backend", "Open Source"];
