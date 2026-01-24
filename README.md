@@ -1,4 +1,4 @@
-<p align="center">
+o<p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20To%20My%20Universe&fontSize=40&animation=twinkling"/>
 </p>
 
@@ -158,7 +158,6 @@ When I'm not coding, you'll find me **hiking** through scenic trails or capturin
 ```
 [██████████████████████████░░] 90% Ready
 □ Innovative frontend projects
-□ Modern UI/UX design challenges
 □ Open-source initiatives
 □ Full-stack web applications
 ```
