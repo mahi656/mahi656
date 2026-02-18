@@ -20,7 +20,7 @@ o<p align="center">
 
 <div align="center">
 
-## 🌐 Connect With Me Across The Digital Universe
+## 🌐 Connect With Me Across The Digital Universe.
 
 <a href="https://www.linkedin.com/in/mahi-sawner-a38556304/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5">
