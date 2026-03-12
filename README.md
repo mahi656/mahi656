@@ -157,7 +157,6 @@ When I'm not coding, you'll find me **hiking** through scenic trails or capturin
 ### 🤝 **Looking to Collaborate On**
 ```
 [██████████████████████████░░] 90% Ready
-□ Innovative frontend projects
 □ Open-source initiatives
 □ Full-stack web applications
 ```
